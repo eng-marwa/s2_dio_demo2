@@ -1,0 +1,3 @@
+class NowShowingUseCase {
+  void call() {}
+}
